@@ -1,6 +1,6 @@
 # RAImageGuard
 
-A Discord bot (formerly discordspam) that watches for users posting images with specific SHA256 checksums, then automatically bans/kicks them and deletes all of their messages.
+A Discord bot that watches for users posting images with specific SHA256 checksums, then automatically bans/kicks them and deletes all of their messages.
 
 ## Features
 
